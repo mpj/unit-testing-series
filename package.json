@@ -1,0 +1,15 @@
+{
+  "name": "test-runners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code-and-tests.js",
+  "scripts": {
+  "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
